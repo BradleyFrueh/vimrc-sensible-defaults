@@ -24,3 +24,4 @@ set ignorecase
 " Display the cursor position in the status line
 set ruler
 
+" ...
